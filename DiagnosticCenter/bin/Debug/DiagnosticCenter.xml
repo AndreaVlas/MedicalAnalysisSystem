@@ -1,0 +1,166 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DiagnosticCenter
+</name>
+</assembly>
+<members>
+<member name="T:DiagnosticCenter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources._128_1281797_close_x_blue_cancel_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources._146_1468107_the_financial_results_icon_medical_files_icon_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources._190711_blue_720x720">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources._26550_appointment_icon_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources._78_788907_transparent_analysis_icon_png_financial_analysis_icon_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.Captură_de_ecran_2021_05_04_151742">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.Captură_de_ecran_2021_05_04_151900">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.Captură_de_ecran_2021_05_04_154904">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.Captură_de_ecran_2021_05_04_214426">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.Captură_de_ecran_2021_05_04_215514">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.computer_icons_login_clip_art_exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.exitt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.fontAwesome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.heart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.heartBeat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.image_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.medical_test">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.medical_test_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.png_transparent_computer_icons_nature_s_resource_medicine_symbol_flat_design_analysis_thumbnail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.png_transparent_computer_icons_nature_s_resource_medicine_symbol_flat_design_analysis_thumbnail1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.quit_icon_png_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.register">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.sheet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.symbol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.ui_ux_minimalist_button_delete_wrong_close_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.unnamed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DiagnosticCenter.My.Resources.Resources.welcome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
